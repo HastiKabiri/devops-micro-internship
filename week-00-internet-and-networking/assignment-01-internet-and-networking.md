@@ -25,7 +25,7 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
+![Task 1 Screenshot](screenshots/chatgpt.png)
 
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
@@ -34,7 +34,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+The definition of a Network Protocol is a set of agreed rules with regards to encoding, sending, and receiving information by computers. Using the analogy of the postal system, it further explains how without standardized rules and a common language, computers will not be able to communicate/display meaningful messages across a network.
 
 ---
 
@@ -59,7 +59,14 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+EpicReads makes your webpage available through a server located in Finland. As soon as visitors click on the website link from anywhere around the globe, they begin a spectacular digital journey in less than a second.
+
+All devices and servers have unique IP Addresses allowing them to locate each other in the world. They connect by using TCP/IP, which is a standard set of rules that guarantees error-proof transmission of information and data.
+
+Instead of transmitting the entire site at once, the server employs a technique called Packet Switching. The website information is divided into packets, which get transmitted via different network routes. They are reassembled on the user's browser.
+
+Requests and responses are made using HTTP/HTTPS meaning that the connection is secured and encryption tools are used for protecting user data during transactions.
+
 
 ---
 
@@ -91,7 +98,7 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![Application Architecture Diagram](screenshots/diagram.png)
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
@@ -102,18 +109,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* React.js / Next.js
+* HTML, CSS, JavaScript
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Node.js (Express)
+* Python (FastAPI / Django)
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* PostgreSQL
+* Redis / MongoDB
 
 ---
 
@@ -142,7 +149,7 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+While the Domain Name System, abbreviated as DNS, can indeed be likened to a phone book for the internet, it becomes necessary to have A Records if one is to associate a domain name with a particular IP address. An A Record triggers the mapping of the domain name with the IPv4 address; thus once the necessary settings are changed in the DNS, visitors to epicreads.com will be able to reach the website easily.
 
 ---
 
@@ -178,7 +185,7 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+![VS Code Setup Screenshot](screenshots/vscode.png)
 
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
@@ -217,17 +224,37 @@ Add the following credit note at the end of your post:
 
 Paste your LinkedIn post URL here:
 
-```text
-Add your URL here...
+```
+https://lnkd.in/p/ggEAmrKb
 ```
 
 ---
 
 ## LinkedIn Post Backup Copy
 
-Paste the full text of your LinkedIn post here:
+I’ve been working through assignments for the DevOps Micro Internship (DMI), and honestly, I’ve learned way more than I expected from it.🫡✨
 
-Add your post content here...
+A few things I’ve been exploring along the way:
+1- Getting better at using AI — learning how to write more precise prompts and break down complicated technical concepts into simple, understandable explanations.
+
+2- Understanding how the internet actually works — going deeper into IP addresses, TCP/IP, packet switching, and how HTTP/HTTPS handle communication.
+
+3- Software architecture — working with Two-Tier and Three-Tier architectures and understanding how the frontend, backend, and database connect through a sample bookstore project, EpicReads.
+
+4- DNS — finally getting a clearer picture of what happens behind the scenes when we type a domain name into a browser, including how DNS translates it into an IP address using records like A records.
+
+5- My development environment — getting more comfortable with VS Code and Git, and making my workflow a little less chaotic. 
+
+What I like most about this experience is that these aren’t just isolated concepts. They’re helping me understand what’s actually happening behind the code I write — and that’s probably the part I enjoy the most.🩷✨
+Still learning, still experimenting, and definitely still have a lot to figure out. 👌🏻
+
+
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Campus — by [ Pravin Mishra ]
+ 
+My graded progress is public:
+https://lnkd.in/gz-s_MBH
+ 
+Start your DevOps journey: https://lnkd.in/gAw5G5HK
 
 ---
 
@@ -235,19 +262,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+Understanding elementary ideas about networking (including IP addresses) and initiating the work environment (using VS Code and Git) has appeared quite easy and clear with proper instructions.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Understanding the underlying structural variances between Two-Tier and Three-Tier application architectures and how the back-end logic effortlessly connects the front-end with the database structures required some more concentration.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+I want to improve my speed and confidence when navigating terminal commands and managing Git workflows, ensuring I can handle version control and project setups with zero hesitation.
 
 ---
 

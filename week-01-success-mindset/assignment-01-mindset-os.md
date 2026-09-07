@@ -163,7 +163,7 @@ Today’s Hasti proves how powerful self-belief can be when combined with learni
 
 Paste your link here:
 
-`Add your URL here`
+` https://medium.com/@hastikabiri9339/the-local-magician-has-become-a-global-sensation-here-is-the-story-of-hasti-8aa9e32b9a26?sharedUserId=hastikabiri9339 `
 
 ---
 
@@ -195,7 +195,8 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+No 
+Although I was in high school, I refrained from unethical means such as cheating. I didn't need to follow rules to know that the work of others is not always reliable. Most importantly, however, I was always eager to find out how capable I really was and how to achieve this in an honest way. Doing everything myself made me happy, even if it meant sometimes struggling.
 
 ---
 
@@ -221,17 +222,35 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Math Games with bad drawings - Ben Orlin
+![book1](screenshots/1.jpeg)
 
+2. How to solve it - George polya
+![book1](screenshots/2.jpeg)
+
+3. The science behind procrastination (How your brain tricks you) - Cole Paxton
+![book1](screenshots/3.jpeg)
+
+4. The psychology of money - Morgan Housel
+![book1](screenshots/4.jpeg)
+
+5. The subtle art of not giving a fuck - Mark Manson
+![book1](screenshots/5.jpeg)
+
+6. Smart choices, a practical guide to making better decisions - John s.Hammond
+![book1](screenshots/6.jpeg)
+
+7. How to talk to anyone - Leil Lowndes
+![book1](screenshots/7.jpeg)
+
+8. How to deal with idiots (and stop being one yourself) - Maxime Rovere
+![book1](screenshots/8.jpeg)
+
+9.  The art of noticing - Rob Walker
+![book1](screenshots/9.jpeg)
+
+10. How to build a healthy brain - Kimberley Wilson
+![book1](screenshots/10.jpeg)
 ---
 
 # Assignment 6. What are the things you will measure regularly in your life and career?
@@ -259,16 +278,12 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* daily physical energy and workout consistency
+* Personal finance and expense tracking
+* code quality
+* weekly networking and community engagement
+* mental well being and offline relaxation time
+
 
 ---
 
@@ -290,11 +305,11 @@ Examples:
 
 ### Did You Do It?
 
-**Yes / No**
+**Yes**
 
 Answer:
 
-Add your answer here...
+im worried about my results from my University. my goal is to become stronger in tech field and make a good background of myself. i am doing physical internship for the next 5 month, and im trying to handle everything and stay calm under pressure.
 
 ---
 
@@ -312,7 +327,9 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Mon-thu : 60 min of reading a book
+sat: DMI session
+Sun: rest well
 
 ---
 
@@ -320,11 +337,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+6 days- after my internship working hours (between 7 pm to 11 pm)
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+1 session
 
 ---
 
@@ -338,7 +355,7 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+less focus on social media
 
 ---
 
@@ -346,15 +363,15 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+i have to grow patiently not quickly
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+Sometimes i try to make something too perfect
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+learn a new language - 1 hour per day after my internship hours
 
 ### LinkedIn Post
 
@@ -365,9 +382,8 @@ Paste your LinkedIn post link here:
 ---
 
 ## 10. Proof of Work
-
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+  
+- Blog / Medium : **[ADD LINK HERE](https://medium.com/@hastikabiri9339/reflection-week-1-3143f31242f0?sharedUserId=hastikabiri9339)**  
 
 ---
 
