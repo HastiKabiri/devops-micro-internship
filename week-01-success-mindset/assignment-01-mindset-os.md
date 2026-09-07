@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe being delusional at some point will help you to grow and reach places that no one could ever imagine. Just believe in your capabilities of reaching the best
 
 ---
 
@@ -55,35 +55,33 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Poor task division among team members inevitably leads to chaos and overlapping code.
 
 ### Evidence from my life
 
-Add your answer here...
-
+While carrying out the coding activity in a group, there was no clear specification of who was responsible for which component. Consequently, multiple individuals made changes to the same file concurrently, resulting in significant merge conflicts and subsequently wasting numerous hours rectifying the overlapping code.
 ---
 
 ## Truth #2
 
 ### Truth
 
-Add your answer here...
+Omitting Use Cases in real-world software development causes code misalignment and confusion among developers.
 
 ### Evidence from my life
 
-Add your answer here...
-
+During the development of software, the absence of a specification or architecture namely led to mixing of business logic with the presentation layer, so that the code became unclear for other programmers, who did not know where specific features had been implemented.
 ---
 
 ## Truth #3
 
 ### Truth
 
-Add your answer here...
+Hardcoding configuration values instead of using environment variables compromises security and scalability.
 
 ### Evidence from my life
 
-Add your answer here...
+During the local application test, critical API keys were unintentionally hardcoded and kept in the application's source code. When it was time to deploy the application, many extra hours were spent on rewriting and securing the API keys, which leads to the conclusion that doing it properly from the very beginning is critical.
 
 ---
 
@@ -135,7 +133,31 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+The local magician has become a global sensation: here is the story of Hasti.
+Date: [2027–2031]
+By: [Sherlock Holmes], TechBeat International
+
+
+
+It is hard to believe how far Hasti Kabiri has come in just five years. From a quiet place in the tech world, she was driven less by ambition than the desire to figure out how things work. She dedicated a lot of time to coding and developed her own motto: “My curiosity leads me.”
+
+Learning was one thing; living through development was another one. It didn’t take Hasti long to grow from an amateur to an independent developer, mastering the full-stack engineering and DevOps pipeline techniques. She faced challenges on the way but didn’t give up and converted problems into the evidence of her skills.
+
+The critical moment for her occurred when she reconciled her technical expertise with her strong commitment to making some change. She created and launched several "cool and useful projects" – applications that did not merely exist but also helped to address real-life issues. 
+
+Her portfolio, publicly available on the GitHub platform and presented in her technical blog, contains intuitive platforms helping disadvantaged communities, providing access to necessary services, and addressing major information gaps.
+ 
+It is important to emphasize that this is not merely code but compassion embodied in technology. 
+
+Through her willingness to grow, she overcame international borders. Her professional journey has taken her to various tech centers, including London and Tokyo, giving her not only work challenges, but also enriching experience of different cultures.
+
+Today’s Hasti proves how powerful self-belief can be when combined with learning continuously and helping those around us. Hasti has developed a strong technical background allowing her to work confidently in the world’s most technology-driven spaces. However, she never forgets her beginnings as a girl full of curiosity. She can measure her success by her job title and projects, but what makes it true is the impact she has on other people in need. Hasti is an example of how one can believe in oneself while also helping others.
+
+
+ **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Campus — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: 
+ https://github.com/HastiKabiri/devops-micro-internship.git  · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=cohort3**
+
+
 
 ### Public Link
 

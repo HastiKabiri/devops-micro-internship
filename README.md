@@ -14,11 +14,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | Hasti Kabiri |
+| **LinkedIn** | [Hasti kabiri](https://www.linkedin.com/in/hasti-kabiri-717551306/) |
+| **Location** | kuala Lumpur, Malaysia |
+| **Background** | AI engineer, frontend developer |
+| **Goal** | to feed my curiosity |
 
 ---
 
