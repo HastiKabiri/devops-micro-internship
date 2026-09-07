@@ -154,7 +154,7 @@ Through her willingness to grow, she overcame international borders. Her profess
 Today’s Hasti proves how powerful self-belief can be when combined with learning continuously and helping those around us. Hasti has developed a strong technical background allowing her to work confidently in the world’s most technology-driven spaces. However, she never forgets her beginnings as a girl full of curiosity. She can measure her success by her job title and projects, but what makes it true is the impact she has on other people in need. Hasti is an example of how one can believe in oneself while also helping others.
 
 
- **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Campus — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: 
+ P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Campus — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: 
  https://github.com/HastiKabiri/devops-micro-internship.git  · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=cohort3**
 
 
