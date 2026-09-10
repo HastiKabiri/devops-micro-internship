@@ -384,6 +384,8 @@ Paste your LinkedIn post link here:
 ## 10. Proof of Work
   
 - Blog / Medium : **[ADD LINK HERE](https://medium.com/@hastikabiri9339/reflection-week-1-3143f31242f0?sharedUserId=hastikabiri9339)**  
+- Linkedin : https://www.linkedin.com/posts/hasti-kabiri-717551306_github-hastikabiridevops-micro-internship-activity-7503767750574743552-YF-y?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE4I-8MB1riyQHZ8TNdp3qm0jbLn8kIYFsI
+- 
 
 ---
 
